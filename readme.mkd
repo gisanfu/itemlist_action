@@ -4,6 +4,6 @@ This is Symphony-CMS Extension,
 
 use by symphony back-end's table list.
 
-![itemlist-action](http://github.com/gisanfu/itemlist_action/raw/master/readme.png)
+![itemlist-action](http://pic.pimg.tw/gisanfu/4dc007135c6fc736547ecbed74a553ce.png?v=1294519678)
 
 Develop by symphony 2.0.7, and work fine.
